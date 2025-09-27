@@ -1,0 +1,1 @@
+Reflection: Git makes collaboration easier by tracking changes.
