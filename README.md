@@ -11,9 +11,10 @@ It includes my learning progress, reflections, and application of Git/GitHub ski
 - Worked with local and remote repositories.  
 
 #Reflections  
-- I learned how powerful Git is in tracking changes and collaborating with others.  
-- Branching and rebasing were challenging at first, but now I understand how to use them effectively.  
-- I appreciated how GitHub can serve as a portfolio to showcase my projects.  
+I have been through the Git/GitHub Certification courses and I have found it to be both difficult and fulfilling. Initially, I had a hard time grasping terms such as branching, merging, and rebasing. I was however able to observe through practicing in my own repository how all features work in actual development processes.
+The best thing was that Git records all changes and simplifies the collaboration, which I liked the most. I cannot help but observe the significance of clear commitment messages and adequate branching strategies in working in a team.
+Another tool that I discovered is the worth of GitHub as a portfolio tool. Posting my projects and certificates helps me to present myself to both the classroom and beyond to future internships and career openings.
+this exercise helped me to become more confident with Git and GitHub. I am also now more adept to implement these competencies in future classes such as IMAN and DWEB, and in my personal endeavors such as the Game Hub Center website.
 
 #Application  
 - Used GitHub to manage my **Game Hub Center** project.  
